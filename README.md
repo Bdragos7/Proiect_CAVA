@@ -9,8 +9,8 @@ numpy                         1.24.3
    Pentru a rula codul intai trebuie sa initializam niste variabile precum:
 
 		folder_input = 'FOLDERUL CU IMAGINILE DE ANTRENARE' exemplu: 'antrenare/'
-		folder_output = 'Rezultate/' folderul pentru rezultate este deja creat, dar 				
-				este gol, dupa rularea codului vor aparea si fisierele txt cu
+		folder_output = 'Rezultate/' folderul pentru rezultate trebuie creat,
+  				dupa rularea codului vor aparea si fisierele txt cu
  				rezultatele
 		empty_board = 'POZA CU TABLA GOALA PRELUATA DIN FISIERUL AUXILIAR' exepmlu: 'imagini_auxiliare/01.jpg'
 
