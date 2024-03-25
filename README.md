@@ -1,6 +1,5 @@
 # Proiect_CAVA
 1.Librarii necesare pentru rularea corespunzatoare a codului:
-
 os
 math
 scipy                         1.11.1
