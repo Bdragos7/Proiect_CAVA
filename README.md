@@ -1,11 +1,10 @@
 # Proiect_CAVA
-1.Librarii necesare pentru rularea corespunzatoare a codului:
-os
-math
-scipy                         1.11.1
-opencv-python                 4.8.1.78
-numpy                         1.24.3
-
+1.Librarii necesare pentru rularea corespunzatoare a codului:  
+os  
+math  
+scipy                         1.11.1  
+opencv-python                 4.8.1.78  
+numpy                         1.24.3  
 2. Proiectul este realizat in PyCharm, utilizand un server Jupyter si Python3.
    Pentru a rula codul intai trebuie sa initializam niste variabile precum:
 
